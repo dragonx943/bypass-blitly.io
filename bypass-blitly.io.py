@@ -24,7 +24,7 @@ for script in scripts:
             url = match.group(1)
             updated_url1 = url.replace("u002F", "/")
             updated_url2 = updated_url1.replace("\/", "/")
-            print("Địa chỉ Link gốc:" ,updated_url2)
+            print("-> Địa chỉ Link gốc:" ,updated_url2)
             break
 
 if not url: # Nếu tin đéo chuẩn thì...
