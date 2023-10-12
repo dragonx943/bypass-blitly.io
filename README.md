@@ -22,9 +22,9 @@
 <details open="open">
     <summary>Mục lục</summary>
     <ol>
-        <li><a href="#Introduce">Giới thiệu</a></li>
-        <li><a href="#Installation">Hướng dẫn cài đặt</a></li>
-        <li><a href="#Contact">Liên hệ</a></li>
+        <li><a href="#giới-thiệu">Giới thiệu</a></li>
+        <li><a href="#cài-đặt">Hướng dẫn cài đặt</a></li>
+        <li><a href="#liên-hệ">Liên hệ</a></li>
     </ol>
 </details>
 
