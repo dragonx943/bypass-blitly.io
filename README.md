@@ -4,6 +4,7 @@
         <img src="https://cdn.discordapp.com/attachments/1149612560769880074/1161701565707595786/image.png" alt="Logo">
     </a>
 
+<h3 align="center">UPDATE: TOOL CHỈ HOẠT ĐỘNG VỚI TRANG 404, KHÔNG CÓ BẢN UPDATE NÀO THÊM HAY FIX LỖI</h3>
 <h3 align="center">Bypass Blitly.io</h3>
 
 <p align="center">
